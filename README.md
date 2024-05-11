@@ -22,5 +22,24 @@ python lfm2b.py
 ```
 ### Run the Shell
 Run the shell ```run.sh``` to reproduce the results of ITFR on the three datasets.
+
+## Citation
+If you find this work is helpful to your research, please consider citing our paper:
+
+```
+@inproceedings{10.1145/3589334.3645518,
+author = {Wang, Yifan and Sun, Peijie and Ma, Weizhi and Zhang, Min and Zhang, Yuan and Jiang, Peng and Ma, Shaoping},
+title = {Intersectional Two-sided Fairness in Recommendation},
+year = {2024},
+isbn = {9798400701719},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3589334.3645518},
+doi = {10.1145/3589334.3645518},
+numpages = {12},
+series = {WWW '24}
+}
+```
+
 ## Contaction
 Please feel free to contact the author at yf-wang21@mails.tsinghua.edu.cn for any help.
